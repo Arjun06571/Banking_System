@@ -1,10 +1,14 @@
 # Banking_System
 
-Key Features:
+Features Included:
 
-1] Customer registration and login
-2] Create/close bank accounts
-3] Deposit/withdrawal/transfer operations
-4] Transaction history
-5] Balance inquiry
-6] Account statements
+✅ Customer Registration & Management
+✅ Account Creation & Management
+✅ Deposit/Withdrawal/Transfer Operations
+✅ Transaction History
+✅ Balance Inquiry
+✅ Account Statements
+✅ Input Validation
+✅ Error Handling
+✅ Console-based Menu System
+✅ use JDBC Oracle 10g.exe database
